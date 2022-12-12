@@ -50,7 +50,7 @@ const Block = styled.div`
 const FooterTitle = styled.div`
     width: 135px;
     height: 36px;
-    font-size: 26px;
+    font-size: 27px;
     font-weight: bolder;
     color: white;
     position: relative;
