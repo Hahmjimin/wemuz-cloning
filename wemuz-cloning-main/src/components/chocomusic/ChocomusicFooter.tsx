@@ -48,7 +48,7 @@ const Block = styled.div`
 `;
 
 const FooterTitle = styled.div`
-    width: 135px;
+    width: 150px;
     height: 36px;
     font-size: 27px;
     font-weight: bolder;
